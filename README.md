@@ -10,7 +10,7 @@ chmod +x restore_mongo.sh
 ```
 
 Modify this script by providing mongo-db collections path and database name 
-afte then run this below command 
+after then run this below command 
 ```
 bash restore_mongo.sh
 ```
