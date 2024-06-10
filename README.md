@@ -6,6 +6,7 @@ Clone this repository and give executeable permission
 git clone https://github.com/Umair7865/mongodb-backup-script.git
 cd mongodb-backup-script
 chmod +x restore_mongo.sh
+
 ```
 
 Modify this script by providing mongo-db collections path and database name 
