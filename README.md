@@ -8,7 +8,7 @@ cd mongodb-backup-script
 chmod +x restore_mongo.sh
 ```
 
-Modify this script by providing path of mongo-db collections path and database name 
+Modify this script by providing mongo-db collections path and database name 
 afte then run this below command 
 ```
 bash restore_mongo.sh
