@@ -3,6 +3,7 @@ Restore Backup of mongodb, just provide path where are collections stored and da
 ```
 git clone https://github.com/Umair7865/mongodb-backup-script.git
 cd mongodb-backup-script
+
 ```
 give executeable permission
 ```
