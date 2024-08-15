@@ -1,4 +1,4 @@
-# mongodb-backup-script
+# mongodb-restore_backup-script
 Restore Backup of mongodb, just provide path where are collections stored and database name
 
 Clone this repository and give executeable permission
