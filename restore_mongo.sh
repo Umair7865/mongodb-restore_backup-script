@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # MongoDB connection details
-DATABASE="database_name"        # Enter Database Name here
+DATABASE="database_name"                            # Enter Database Name here
 
 # Directory containing backup JSON files
 BACKUP_DIR="/home/user_name/mongodb-backups"        # Enter Directory Path where backup is stored
